@@ -56,3 +56,7 @@ Run: `driver/driver.sh plans/pi-vcc-fork` (needs `bun`, `git`, network for the f
 ## License
 
 Apache-2.0
+
+## Status (2026-09-25)
+
+This repo's workbench qualification role has been folded into the [workbench](https://github.com/a-canary/workbench) repo (`workbench/nightly/`). This repo remains for standalone benchmarking plans (V100 inference, pi-vcc-fork) but is no longer the central nightly test lane.
